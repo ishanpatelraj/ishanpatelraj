@@ -28,7 +28,7 @@
 ### Portfolio
 
 - GitHub: [github.com/ishanpatelraj](https://github.com/ishanpatelraj?tab=repositories)
-- Resume: [View PDF](https://drive.google.com/file/d/10iFCygt_tKGyvCbFFN_rEqiZHrNBmp/view?usp=drivesdk)
+- Resume: [View PDF]([https://drive.google.com/file/d/10iFCygt_tKGyvCbFFN_rEqiZHrNBmp/view?usp=drivesdk](https://drive.google.com/file/d/10iFCygt_tKGyvCbFFN_rEqiZHrNBmp/view?usp=drivesdk))
 
 ---
 
