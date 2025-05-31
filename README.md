@@ -1,5 +1,5 @@
 <h1 align="center">Ishan Patel</h1>
-<h3 align="center">Machine Learning Enthusiast | Developer | Problem Solver</h3>
+<h3 align="center">Machine Learning Enthusiast | Developer | Python | C++</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ishanpatelraj&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
