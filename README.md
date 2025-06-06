@@ -9,7 +9,7 @@
 
 ### Projects
 
-- [HumanFaceToAnime](https://github.com/ishanpatelraj/HumanFaceToAnime)
+- [HumanFaceToAnime(Ongoing)](https://github.com/ishanpatelraj/HumanFaceToAnime)
 - [Medical Chat Assistant](https://github.com/MK10UNoY/Medical-Chat-Assistant-)
 - [ScreenSage](https://github.com/deepanshu089/NH-Directionless)
 - [SnakeGame](https://github.com/ishanpatelraj/SnakeGame)
